@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "stockedge-new": {
+      "hosting": {
+        "app": [
+          "stockedge-new"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "stockedge-new"
+  }
+}
