@@ -1,0 +1,7 @@
+{
+  "name": "stockedge-new",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
